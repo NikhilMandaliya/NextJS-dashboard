@@ -1,4 +1,4 @@
-# Acme dashboard.
+# Acme Dashboard
 
 Created to learn fundamentals of Next.js. Concepts such as server-side rendering, dynamic routing, Static and Dynamic Rendering, Streaming, server actions and Authentication etc.
 
